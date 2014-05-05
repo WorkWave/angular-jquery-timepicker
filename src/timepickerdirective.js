@@ -6,8 +6,7 @@
 angular.module('ui.timepicker', [])
 
 .value('uiTimepickerConfig', {
-    'step' : 15,
-    'timeFormat': 'H:i'
+    'step' : 15
 })
 
 .directive('uiTimepicker', ['uiTimepickerConfig', function(uiTimepickerConfig) {
