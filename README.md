@@ -1,5 +1,5 @@
-angular-jquery-timepicker [![Build Status](https://travis-ci.org/Recras/angular-jquery-timepicker.png?branch=master)](https://travis-ci.org/Recras/angular-jquery-timepicker)
-=====================
+angular-jquery-timepicker
+=========================
 
 An AngularJS directive for [jquery-timepicker](https://github.com/jonthornton/jquery-timepicker)
 
